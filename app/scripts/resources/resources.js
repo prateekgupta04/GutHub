@@ -1,0 +1,1 @@
+//var Recipe = $resource('/recipe/:id', {id:'@id'})
